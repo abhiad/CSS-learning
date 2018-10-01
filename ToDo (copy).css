@@ -1,0 +1,18 @@
+li{
+	font-size: 40px;
+	border: 10px dashed cyan;
+}
+
+.lavel{
+	font-size: 50px;
+	color: blue;
+	text-decoration: underline;
+}
+/*body{
+   background-color: orange;
+   border: 10px solid green;
+}*/
+
+#hadding{
+	      background-color: red;
+}

@@ -1,0 +1,22 @@
+h1{
+	color: red;
+	font-size: 120px;
+	background-color: magenta;
+	font-style: italic;
+	border: 5px dashed cyan;
+
+}
+h2{
+	color: blue;
+	font-size: 100px;
+	background-color: violet;
+	font-style: bold; 
+	border-color: red;
+	border-style: dotted;
+	border-width: 8px;
+}
+p{
+	background-color: yellow;
+	font-size: 30px;
+	font-family: sans-serif;
+}
